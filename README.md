@@ -72,14 +72,14 @@ $ python(3) -m slayerbot
 
 # Mandatory Configs
 ```
-[+] If You Running Friday On A Deploy Services With Config Env Support Like Heroku, Zeet.co, Please Set "ENV" To True , Else For Self Host Services Like Digital Ocean Just Make A Local Config And Put Vars Given Below.
+[+] If You Running Slayer On A Deploy Services With Config Env Support Like Heroku, Zeet.co, Please Set "ENV" To True , Else For Self Host Services Like Digital Ocean Just Make A Local Config And Put Vars Given Below.
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     [-] STRING_SESSION : Your String Session, You can get this From Repl or BY running StringGen File Locally
     [-] TG_BOT_TOKEN_BF_HER : Your Bot Token Obtained From @BotFather 
     [-] PRIVATE_GROUP_ID : Id of group where you wanna log important logs, Private group is recommended for this
     [-] DATABASE_URL: Data Base Url, You Can Get this from Elephant Sql, Or You can even make a heroku app to get Free DataBase. 
-[+] The fridayUserbot will not work without setting the mandatory vars.
+[+] The SlayerUserbot will not work without setting the mandatory vars.
 ```
 
 
