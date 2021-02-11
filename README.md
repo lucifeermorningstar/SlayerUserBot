@@ -70,7 +70,7 @@ $ pip(3) install -r requirements.txt
 $ python(3) -m slayerbot
 ```
 
-# Mandatory Configs
+# Mandatory Config
 ```
 [+] If You Running Friday On A Deploy Services With Config Env Support Like Heroku, Zeet.co, Please Set "ENV" To True , Else For Self Host Services Like Digital Ocean Just Make A Local Config And Put Vars Given Below.
     [-] APP_ID:   You can get this value from https://my.telegram.org
